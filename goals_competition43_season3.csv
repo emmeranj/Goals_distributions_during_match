@@ -1,0 +1,170 @@
+match_id,period,stage,goal_time,n_matches_group,n_matches_ko,n_matches_ET,ET_match
+7585,2,Round of 16,56,48,16,1,True
+7585,2,Round of 16,92,48,16,1,True
+7570,2,Group Stage,50,48,16,1,False
+7586,2,Round of 16,65,48,16,1,False
+7557,1,Group Stage,44,48,16,1,False
+7557,2,Group Stage,92,48,16,1,False
+7542,1,Group Stage,3,48,16,1,False
+8656,1,Semi-finals,4,48,16,2,True
+8656,2,Semi-finals,67,48,16,2,True
+8656,4,Semi-finals,108,48,16,2,True
+7554,1,Group Stage,7,48,16,2,False
+7554,1,Group Stage,21,48,16,2,False
+7554,1,Group Stage,35,48,16,2,False
+7554,1,Group Stage,39,48,16,2,False
+7554,1,Group Stage,45,48,16,2,False
+7554,2,Group Stage,61,48,16,2,False
+7554,2,Group Stage,77,48,16,2,False
+7550,1,Group Stage,4,48,16,2,False
+7550,2,Group Stage,51,48,16,2,False
+7550,2,Group Stage,89,48,16,2,False
+7548,2,Group Stage,90,48,16,2,False
+7548,2,Group Stage,96,48,16,2,False
+7578,2,Group Stage,88,48,16,2,False
+7553,1,Group Stage,25,48,16,2,False
+7553,2,Group Stage,65,48,16,2,False
+7553,2,Group Stage,92,48,16,2,False
+7544,1,Group Stage,22,48,16,2,False
+7536,2,Group Stage,46,48,16,2,False
+7536,2,Group Stage,68,48,16,2,False
+7536,2,Group Stage,74,48,16,2,False
+7555,1,Group Stage,39,48,16,2,False
+7555,2,Group Stage,69,48,16,2,False
+7555,2,Group Stage,74,48,16,2,False
+7546,1,Group Stage,33,48,16,2,False
+7539,2,Group Stage,59,48,16,2,False
+7539,2,Group Stage,85,48,16,2,False
+7539,1,Group Stage,36,48,16,2,False
+7538,2,Group Stage,64,48,16,2,False
+7576,1,Group Stage,3,48,16,2,False
+7576,1,Group Stage,23,48,16,2,False
+7576,1,Group Stage,43,48,16,2,False
+7576,2,Group Stage,54,48,16,2,False
+7576,2,Group Stage,57,48,16,2,False
+7576,2,Group Stage,87,48,16,2,False
+7565,1,Group Stage,34,48,16,2,False
+7565,2,Group Stage,67,48,16,2,False
+7551,1,Group Stage,31,48,16,2,False
+7551,2,Group Stage,47,48,16,2,False
+7551,2,Group Stage,94,48,16,2,False
+7537,1,Group Stage,10,48,16,2,False
+7537,1,Group Stage,34,48,16,2,False
+7537,2,Group Stage,90,48,16,2,False
+7580,1,Round of 16,12,48,16,2,False
+7580,1,Round of 16,40,48,16,2,False
+7580,2,Round of 16,47,48,16,2,False
+7580,2,Round of 16,56,48,16,2,False
+7580,2,Round of 16,63,48,16,2,False
+7580,2,Round of 16,67,48,16,2,False
+7580,2,Round of 16,92,48,16,2,False
+8650,1,Quarter-finals,30,48,16,2,False
+8650,2,Quarter-finals,75,48,16,2,False
+8650,1,Quarter-finals,12,48,16,2,False
+7581,1,Round of 16,0,48,16,3,True
+7581,1,Round of 16,3,48,16,3,True
+7549,2,Group Stage,48,48,16,3,False
+7549,2,Group Stage,74,48,16,3,False
+7529,2,Group Stage,70,48,16,3,False
+7529,1,Group Stage,31,48,16,3,False
+7534,1,Group Stage,34,48,16,3,False
+7562,1,Group Stage,17,48,16,3,False
+7562,2,Group Stage,49,48,16,3,False
+7571,2,Group Stage,73,48,16,3,False
+7569,2,Group Stage,50,48,16,3,False
+7569,2,Group Stage,65,48,16,3,False
+7569,1,Group Stage,32,48,16,3,False
+7568,1,Group Stage,30,48,16,3,False
+7568,2,Group Stage,55,48,16,3,False
+7568,2,Group Stage,87,48,16,3,False
+7568,2,Group Stage,92,48,16,3,False
+7530,2,Group Stage,57,48,16,3,False
+7530,2,Group Stage,61,48,16,3,False
+7530,2,Group Stage,79,48,16,3,False
+7558,1,Group Stage,9,48,16,3,False
+7558,2,Group Stage,89,48,16,3,False
+7558,1,Group Stage,22,48,16,3,False
+7583,2,Round of 16,50,48,16,3,False
+7583,2,Round of 16,87,48,16,3,False
+7547,1,Group Stage,6,48,16,3,False
+7547,1,Group Stage,37,48,16,3,False
+7535,2,Group Stage,55,48,16,3,False
+7584,2,Round of 16,47,48,16,3,False
+7584,2,Round of 16,51,48,16,3,False
+7584,2,Round of 16,68,48,16,3,False
+7584,2,Round of 16,73,48,16,3,False
+7584,2,Round of 16,93,48,16,3,False
+7545,2,Group Stage,52,48,16,3,False
+7545,2,Group Stage,79,48,16,3,False
+7545,2,Group Stage,90,48,16,3,False
+8649,1,Quarter-finals,39,48,16,3,False
+8649,2,Quarter-finals,60,48,16,3,False
+8658,1,Final,17,48,16,3,False
+8658,1,Final,27,48,16,3,False
+8658,1,Final,37,48,16,3,False
+8658,2,Final,58,48,16,3,False
+8658,2,Final,64,48,16,3,False
+8658,2,Final,68,48,16,3,False
+7561,2,Group Stage,52,48,16,3,False
+7561,2,Group Stage,75,48,16,3,False
+7561,2,Group Stage,89,48,16,3,False
+7531,1,Group Stage,18,48,16,3,False
+7531,1,Group Stage,22,48,16,3,False
+7582,1,Round of 16,40,48,16,4,True
+7582,1,Round of 16,11,48,16,4,True
+7552,1,Group Stage,6,48,16,4,False
+7552,1,Group Stage,15,48,16,4,False
+7552,1,Group Stage,17,48,16,4,False
+7552,1,Group Stage,47,48,16,4,False
+7552,2,Group Stage,50,48,16,4,False
+7552,2,Group Stage,89,48,16,4,False
+7552,2,Group Stage,92,48,16,4,False
+7532,2,Group Stage,58,48,16,4,False
+7560,1,Group Stage,13,48,16,4,False
+7560,1,Group Stage,18,48,16,4,False
+7560,2,Group Stage,80,48,16,4,False
+7560,2,Group Stage,90,48,16,4,False
+7533,1,Group Stage,19,48,16,4,False
+7533,2,Group Stage,49,48,16,4,False
+7564,1,Group Stage,13,48,16,4,False
+7564,2,Group Stage,50,48,16,4,False
+7564,2,Group Stage,85,48,16,4,False
+7579,1,Round of 16,6,48,16,4,False
+7579,2,Round of 16,54,48,16,4,False
+7579,2,Round of 16,61,48,16,4,False
+7572,2,Group Stage,58,48,16,4,False
+7577,2,Group Stage,94,48,16,4,False
+7543,2,Group Stage,53,48,16,4,False
+7525,1,Group Stage,11,48,16,4,False
+7525,1,Group Stage,42,48,16,4,False
+7525,2,Group Stage,70,48,16,4,False
+7525,2,Group Stage,90,48,16,4,False
+7525,2,Group Stage,93,48,16,4,False
+7566,2,Group Stage,49,48,16,4,False
+7566,2,Group Stage,61,48,16,4,False
+7566,2,Group Stage,73,48,16,4,False
+8651,1,Quarter-finals,29,48,16,4,False
+8651,2,Quarter-finals,58,48,16,4,False
+7567,2,Group Stage,91,48,16,4,False
+7567,2,Group Stage,95,48,16,4,False
+7541,1,Group Stage,5,48,16,4,False
+7541,1,Group Stage,38,48,16,4,False
+7541,2,Group Stage,72,48,16,4,False
+8655,2,Semi-finals,50,48,16,4,False
+8657,1,3rd Place Final,3,48,16,4,False
+8657,2,3rd Place Final,81,48,16,4,False
+7540,2,Group Stage,58,48,16,4,False
+7540,2,Group Stage,61,48,16,4,False
+7540,2,Group Stage,72,48,16,4,False
+7540,2,Group Stage,46,48,16,4,False
+8652,1,Quarter-finals,30,48,16,5,True
+8652,1,Quarter-finals,38,48,16,5,True
+8652,3,Quarter-finals,100,48,16,5,True
+8652,4,Quarter-finals,114,48,16,5,True
+7556,1,Group Stage,10,48,16,5,False
+7556,1,Group Stage,33,48,16,5,False
+7556,2,Group Stage,70,48,16,5,False
+7556,2,Group Stage,77,48,16,5,False
+7559,1,Group Stage,21,48,16,5,False
+7559,1,Group Stage,50,48,16,5,False
+7559,2,Group Stage,94,48,16,5,False

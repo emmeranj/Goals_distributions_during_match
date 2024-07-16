@@ -1,0 +1,143 @@
+match_id,period,stage,goal_time,n_matches_group,n_matches_ko,n_matches_ET,ET_match
+3795108,2,Quarter-finals,67,36,15,1,True
+3795108,1,Quarter-finals,7,36,15,1,True
+3788769,1,Group Stage,37,36,15,1,False
+3788769,2,Group Stage,58,36,15,1,False
+3788769,2,Group Stage,69,36,15,1,False
+3788769,2,Group Stage,78,36,15,1,False
+3788769,2,Group Stage,81,36,15,1,False
+3788766,1,Group Stage,38,36,15,1,False
+3795220,2,Semi-finals,59,36,15,2,True
+3795220,2,Semi-finals,79,36,15,2,True
+3788761,2,Group Stage,76,36,15,2,False
+3788764,1,Group Stage,14,36,15,2,False
+3788764,2,Group Stage,50,36,15,2,False
+3788764,2,Group Stage,59,36,15,2,False
+3788764,2,Group Stage,66,36,15,2,False
+3788764,1,Group Stage,34,36,15,2,False
+3788764,1,Group Stage,38,36,15,2,False
+3788773,1,Group Stage,30,36,15,2,False
+3788773,1,Group Stage,46,36,15,2,False
+3788773,2,Group Stage,46,36,15,2,False
+3788773,2,Group Stage,59,36,15,2,False
+3788755,1,Group Stage,41,36,15,2,False
+3788755,2,Group Stage,94,36,15,2,False
+3788754,1,Group Stage,25,36,15,2,False
+3788754,2,Group Stage,51,36,15,2,False
+3788754,2,Group Stage,88,36,15,2,False
+3788762,1,Group Stage,24,36,15,2,False
+3788762,2,Group Stage,53,36,15,2,False
+3788760,1,Group Stage,36,36,15,2,False
+3788760,2,Group Stage,46,36,15,2,False
+3788747,1,Group Stage,17,36,15,2,False
+3788747,1,Group Stage,27,36,15,2,False
+3788747,2,Group Stage,77,36,15,2,False
+3788747,2,Group Stage,88,36,15,2,False
+3788741,2,Group Stage,65,36,15,2,False
+3788741,2,Group Stage,78,36,15,2,False
+3788741,2,Group Stage,52,36,15,2,False
+3795109,1,Quarter-finals,4,36,15,2,False
+3795109,1,Quarter-finals,41,36,15,2,False
+3795109,2,Quarter-finals,48,36,15,2,False
+3795187,1,Quarter-finals,3,36,15,2,False
+3795187,2,Quarter-finals,45,36,15,2,False
+3795187,2,Quarter-finals,49,36,15,2,False
+3795187,2,Quarter-finals,62,36,15,2,False
+3788770,1,Group Stage,23,36,15,2,False
+3788770,2,Group Stage,50,36,15,2,False
+3788770,2,Group Stage,57,36,15,2,False
+3795506,1,Final,1,36,15,3,True
+3795506,2,Final,66,36,15,3,True
+3794688,2,Round of 16,74,36,15,3,False
+3794688,2,Round of 16,85,36,15,3,False
+3794692,1,Round of 16,26,36,15,4,True
+3794692,1,Round of 16,42,36,15,4,True
+3794692,4,Round of 16,120,36,15,4,True
+3794686,1,Round of 16,37,36,15,5,True
+3794686,2,Round of 16,56,36,15,5,True
+3794686,2,Round of 16,76,36,15,5,True
+3794686,2,Round of 16,84,36,15,5,True
+3794686,2,Round of 16,91,36,15,5,True
+3794686,3,Round of 16,99,36,15,5,True
+3794686,3,Round of 16,102,36,15,5,True
+3794686,1,Round of 16,19,36,15,5,True
+3794687,1,Round of 16,41,36,15,5,False
+3794685,3,Round of 16,94,36,15,6,True
+3794685,3,Round of 16,104,36,15,6,True
+3794685,4,Round of 16,113,36,15,6,True
+3788774,1,Group Stage,10,36,15,6,False
+3788774,2,Group Stage,65,36,15,6,False
+3788774,2,Group Stage,67,36,15,6,False
+3788774,2,Group Stage,83,36,15,6,False
+3788771,1,Group Stage,16,36,15,6,False
+3788771,1,Group Stage,41,36,15,6,False
+3788771,2,Group Stage,61,36,15,6,False
+3788771,2,Group Stage,76,36,15,6,False
+3788772,1,Group Stage,11,36,15,6,False
+3788768,2,Group Stage,80,36,15,6,False
+3788768,2,Group Stage,73,36,15,6,False
+3788767,1,Group Stage,20,36,15,6,False
+3788753,1,Group Stage,46,36,15,6,False
+3788765,1,Group Stage,5,36,15,6,False
+3788765,1,Group Stage,25,36,15,6,False
+3788765,2,Group Stage,61,36,15,6,False
+3788765,2,Group Stage,67,36,15,6,False
+3788763,1,Group Stage,46,36,15,6,False
+3788763,2,Group Stage,65,36,15,6,False
+3788758,1,Group Stage,28,36,15,6,False
+3788758,1,Group Stage,33,36,15,6,False
+3788758,2,Group Stage,56,36,15,6,False
+3788757,1,Group Stage,1,36,15,6,False
+3788757,2,Group Stage,54,36,15,6,False
+3788757,2,Group Stage,69,36,15,6,False
+3788745,2,Group Stage,56,36,15,6,False
+3795107,1,Quarter-finals,30,36,15,6,False
+3795107,1,Quarter-finals,43,36,15,6,False
+3795107,1,Quarter-finals,46,36,15,6,False
+3795221,1,Semi-finals,29,36,15,7,True
+3795221,3,Semi-finals,103,36,15,7,True
+3795221,1,Semi-finals,38,36,15,7,True
+3794689,1,Round of 16,26,36,15,7,False
+3794689,2,Round of 16,47,36,15,7,False
+3794689,2,Round of 16,87,36,15,7,False
+3794689,2,Round of 16,93,36,15,7,False
+3788746,2,Group Stage,51,36,15,7,False
+3788746,2,Group Stage,57,36,15,7,False
+3788746,2,Group Stage,74,36,15,7,False
+3788746,2,Group Stage,78,36,15,7,False
+3788746,2,Group Stage,84,36,15,7,False
+3794691,1,Round of 16,14,36,15,8,True
+3794691,2,Round of 16,56,36,15,8,True
+3794691,2,Round of 16,58,36,15,8,True
+3794691,2,Round of 16,74,36,15,8,True
+3794691,2,Round of 16,80,36,15,8,True
+3794691,2,Round of 16,89,36,15,8,True
+3794690,2,Round of 16,67,36,15,8,False
+3794690,2,Round of 16,79,36,15,8,False
+3788756,1,Group Stage,10,36,15,8,False
+3788756,2,Group Stage,66,36,15,8,False
+3788749,2,Group Stage,45,36,15,8,False
+3788749,2,Group Stage,68,36,15,8,False
+3788749,1,Group Stage,17,36,15,8,False
+3788748,1,Group Stage,41,36,15,8,False
+3788748,2,Group Stage,51,36,15,8,False
+3788751,1,Group Stage,19,36,15,8,False
+3788752,2,Group Stage,83,36,15,8,False
+3788752,2,Group Stage,86,36,15,8,False
+3788752,2,Group Stage,91,36,15,8,False
+3788742,2,Group Stage,59,36,15,8,False
+3788775,1,Group Stage,47,36,15,8,False
+3788775,2,Group Stage,55,36,15,8,False
+3788775,2,Group Stage,66,36,15,8,False
+3788775,1,Group Stage,29,36,15,8,False
+3788775,2,Group Stage,70,36,15,8,False
+3788776,1,Group Stage,1,36,15,8,False
+3788776,2,Group Stage,58,36,15,8,False
+3788776,2,Group Stage,60,36,15,8,False
+3788776,2,Group Stage,83,36,15,8,False
+3788776,2,Group Stage,93,36,15,8,False
+3788743,1,Group Stage,9,36,15,8,False
+3788743,1,Group Stage,33,36,15,8,False
+3788743,2,Group Stage,87,36,15,8,False
+3788744,2,Group Stage,48,36,15,8,False
+3788744,2,Group Stage,73,36,15,8,False
