@@ -1,1 +1,1 @@
-Python code for blog posts on https://emmeranj.wixsite.com/website
+Python code for blog post: https://emmeranj.wixsite.com/website/post/a-brief-look-at-goal-distributions-in-international-tournaments
