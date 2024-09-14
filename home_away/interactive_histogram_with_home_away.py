@@ -21,11 +21,11 @@ France_id = 7
 Italy_id = 12
 
 # Load goal data for each league from CSV files, see goal_times.py for creating the datasets
-df_england = pd.read_csv(f"goal-distribution/goals_competition{England_id}_season{season_id}.csv")
-df_germany = pd.read_csv(f"goal-distribution/goals_competition{Germany_id}_season{season_id}.csv")
-df_spain = pd.read_csv(f"goal-distribution/goals_competition{Spain_id}_season{season_id}.csv")
-df_france = pd.read_csv(f"goal-distribution/goals_competition{France_id}_season{season_id}.csv")
-df_italy = pd.read_csv(f"goal-distribution/goals_competition{Italy_id}_season{season_id}.csv")
+df_england = pd.read_csv(f"goals_competition{England_id}_season{season_id}.csv")
+df_germany = pd.read_csv(f"goals_competition{Germany_id}_season{season_id}.csv")
+df_spain = pd.read_csv(f"goals_competition{Spain_id}_season{season_id}.csv")
+df_france = pd.read_csv(f"goals_competition{France_id}_season{season_id}.csv")
+df_italy = pd.read_csv(f"goals_competition{Italy_id}_season{season_id}.csv")
 
 # Create a dictionary mapping league names to their respective dataframes
 league_data = {
