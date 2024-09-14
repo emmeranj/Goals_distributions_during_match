@@ -4,6 +4,10 @@ import warnings
 import matplotlib.pyplot as plt
 import sys
 
+from scipy.stats import norm
+import numpy as np
+from scipy.stats import mannwhitneyu
+
 # Suppress the specific NoAuthWarning from statsbombpy
 warnings.filterwarnings("ignore", message="credentials were not supplied. open data access only")
 
@@ -254,34 +258,7 @@ n_matches += df_italy['n_matches'][0]
 home_goals_df = goals_clubs[goals_clubs['home'] == 1]['goal_time'] 
 away_goals_df = goals_clubs[goals_clubs['home'] == 0]['goal_time']
 
-from scipy.stats import ks_2samp
-
-ks_stat, p_value = ks_2samp(home_goals_df, away_goals_df)
-print(f"KS statistic: {ks_stat}, p-value: {p_value}")
-
-
-# filter between 1st vs 2nd half
-goals_H1 = goals_clubs[goals_clubs['period'] == 1]['goal_time']
-goals_H2 = goals_clubs[goals_clubs['period'] == 2]['goal_time'] - 45
-print(goals_H2)
-
-ks_stat, p_value = ks_2samp(goals_H1, goals_H2)
-print(f"KS statistic: {ks_stat}, p-value: {p_value}")
-# statistically significant !! add narrative / try to explain ?
-# not many goals early in match whereas more spread accross in 2nd half.
-# could make two posts - one about home / away and another about 1st half vs 2nd half with statistical tests!
-# first do home/away since not much left to do - just find one more interesting test to do that is not KS test...
-
-
-
-
-
-
-
-
-
-from scipy.stats import norm
-import numpy as np
+############## POISSON RATE TEST ##############
 
 def poisson_rate_test(rate1, n1, rate2, n2):
     """
@@ -314,26 +291,14 @@ z_stat, p_value = poisson_rate_test(rate_home, n_matches, rate_away, n_matches)
 
 print(f"Z-statistic: {z_stat:.4f}, p-value: {p_value}")
 
-home_goals_extra_time = home_goals_df[home_goals_df > 89]
-away_goals_extra_time = away_goals_df[away_goals_df > 89]
-print(home_goals_extra_time)
-print(away_goals_extra_time)
-rate_home_extra_time = home_goals_extra_time.shape[0] / n_matches
-rate_away_extra_time = away_goals_extra_time.shape[0] / n_matches
+############## MANN-WHITNEY TEST ##############
 
-# Perform the Poisson rate test
-z_stat, p_value = poisson_rate_test(rate_home_extra_time, n_matches, rate_away_extra_time, n_matches)
+# Perform Mann-Whitney U test
+stat, p_value = mannwhitneyu(home_goals_df, away_goals_df, alternative='two-sided')
 
-print(f"Z-statistic: {z_stat:.4f}, p-value: {p_value}")
-
-# DONE!
-# Narrative: statistically significant difference between home and away poisson rates
-# LIST assumptions of test very clearly + what the power is etc...!
-# I WANT CLARITY AND RIGOUROUS TESTING
+print(f'U Statistic: {stat}')
+print(f'P-value: {p_value}')
 
 
-# if bin is [0,15), then 15 goes into next biin, since a goal scored in 14:27 is considered at time 15 (CHECK?) and we want it
-# to be in time 14, we subtract 1 in our adjustement - MENTION THIS! NOT TRUE - THE MINUTE IS THE ACTUAL MINUTE
 
-# MAYBE FORGET THE EXTRA TIME THING!!
-# WILL DO MORE INTERESTING TESTING IN THE FIRST VS SECOND HALF OR FIRST 5 MINS VS LAST 5 MINS ... ETC...
+
